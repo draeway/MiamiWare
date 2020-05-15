@@ -2,4 +2,4 @@
 MiamiWare is a fictitious home hardware / computer hardware store located in Miami, Florida. 
 
 
-![Image description](https://imgur.com/a/Q8ZlYeT)
+![Photo of Banner](https://i.imgur.com/ACgF0hO.png)
